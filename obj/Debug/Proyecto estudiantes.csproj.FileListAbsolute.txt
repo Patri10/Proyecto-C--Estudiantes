@@ -1,0 +1,10 @@
+C:\Users\Patri\source\repos\Proyecto estudiantes\bin\Debug\Proyecto estudiantes.exe.config
+C:\Users\Patri\source\repos\Proyecto estudiantes\bin\Debug\Proyecto estudiantes.exe
+C:\Users\Patri\source\repos\Proyecto estudiantes\bin\Debug\Proyecto estudiantes.pdb
+C:\Users\Patri\source\repos\Proyecto estudiantes\obj\Debug\Proyecto estudiantes.csproj.AssemblyReference.cache
+C:\Users\Patri\source\repos\Proyecto estudiantes\obj\Debug\Proyecto_estudiantes.Form1.resources
+C:\Users\Patri\source\repos\Proyecto estudiantes\obj\Debug\Proyecto_estudiantes.Properties.Resources.resources
+C:\Users\Patri\source\repos\Proyecto estudiantes\obj\Debug\Proyecto estudiantes.csproj.GenerateResource.cache
+C:\Users\Patri\source\repos\Proyecto estudiantes\obj\Debug\Proyecto estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Patri\source\repos\Proyecto estudiantes\obj\Debug\Proyecto estudiantes.exe
+C:\Users\Patri\source\repos\Proyecto estudiantes\obj\Debug\Proyecto estudiantes.pdb
